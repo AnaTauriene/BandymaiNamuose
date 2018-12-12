@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Neįtikėtinai flegma kompas
 public class Main {
 
     public static void main(String[] args) {
